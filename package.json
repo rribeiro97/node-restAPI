@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Creating a node Rest API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rribeiro97/node-restAPI.git"
+  },
+  "keywords": [
+    "node",
+    "rest"
+  ],
+  "author": "Ricardo Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rribeiro97/node-restAPI/issues"
+  },
+  "homepage": "https://github.com/rribeiro97/node-restAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
